@@ -1,7 +1,7 @@
 # **ĐỒ ÁN CUỐI KỲ - CS106.M11**
 ## **ĐỀ TÀI: REINFORCEMENT LEARNING CHO BÀI TOÁN SUPER MARIO BROS**
 
-![super-mario-bros](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenk.vn%2Fsuper-mario-bros-world-1-1-duoc-tai-tao-hoan-hao-tren-quyen-vo-cua-nguoi-ham-mo-nhat-ban-20190212093320505.chn&psig=AOvVaw37HfDKfC1A9NS3eUeW48F1&ust=1641023118483000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMC-v9TFjfUCFQAAAAAdAAAAABAD)
+![super-mario-bros](https://genk.mediacdn.vn/thumb_w/660/2019/2/12/photo-1-15499386766061740209986.jpg)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Môn học**: NHẬP MÔN THỊ GIÁC MÁY TÍNH - XỬ LÝ ẢNH VÀ ỨNG DỤNG
