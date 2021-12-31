@@ -5,11 +5,11 @@
 
 ## GIỚI THIỆU MÔN HỌC
 * **Môn học**: NHẬP MÔN THỊ GIÁC MÁY TÍNH - XỬ LÝ ẢNH VÀ ỨNG DỤNG
-* **Lớp học**: CS231.M11 - CS406.M11
+* **Lớp học**: CS106.M11
 * **Năm học**: 2020-2021
 
 ## GIẢNG VIÊN HƯỚNG DẪN
-* TS. **Mai Tiến Dũng**
+* TS. **Lương Ngọc Hoàng**
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
