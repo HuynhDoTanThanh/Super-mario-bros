@@ -14,7 +14,7 @@ Với Double Deep Q-Network đã hoàn thành được 9/32 màn.
   <img src="results/w3s1.gif" width="200">
   <img src="results/w4s1.gif" width="200">
   <img src="results/w5s4.gif" width="200"><br/>
-  <img src="results/w6s1.gif" width="200">
+  <img src="results/w6s1.gif" width="200"><br/>
   <i>Sample results</i>
 </p>
 
